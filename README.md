@@ -1,6 +1,9 @@
 # Uncertainty Awarewess Learning and Reasoning resources
 
-## Basics
+
+[Educational material illustrating the basics of EDL](https://www.slideshare.net/fcerutti/introduction-to-evidential-neural-networks-234762814)
+
+## Resources on Bayesian analysis
 * [Bayesian analysis: Bernulli and Beta distributions](https://nbviewer.jupyter.org/federicocerutti/UncertaintyAwarenessResources/blob/master/notebooks/Beta.ipynb)
 
 ## Evidential Neural Network

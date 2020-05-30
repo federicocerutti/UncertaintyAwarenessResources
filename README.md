@@ -4,9 +4,9 @@
 [Educational material illustrating the basics of EDL](https://www.slideshare.net/fcerutti/introduction-to-evidential-neural-networks-234762814)
 
 ## Resources on Bayesian analysis
-* [Bayesian analysis: Bernulli and Beta distributions](https://nbviewer.jupyter.org/federicocerutti/UncertaintyAwarenessResources/blob/master/notebooks/Beta.ipynb)
+* [Bayesian analysis: Bernulli and Beta distributions](https://github.com/federicocerutti/UncertaintyAwarenessResources/blob/master/notebooks/Beta.ipynb)
 
 ## Evidential Neural Network
 * [Tensorflow implementation](https://muratsensoy.github.io/uncertainty)
 * [PyTorch implementation](https://github.com/dougbrion/pytorch-classification-uncertainty)
-* [Keras implementation](https://nbviewer.jupyter.org/federicocerutti/UncertaintyAwarenessResources/blob/master/notebooks/EDL_Keras.ipynb)
+* [Keras implementation](https://github.com/federicocerutti/UncertaintyAwarenessResources/blob/master/notebooks/EDL_Keras.ipynb)
